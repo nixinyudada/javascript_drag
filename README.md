@@ -2,5 +2,5 @@
 
 *`javascript` `offset` 的使用*
 
-![result img]('img/1.png')
+![result img]('./img/1.png')
 
